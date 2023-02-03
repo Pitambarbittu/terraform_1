@@ -1,0 +1,6 @@
+/.terraform
+*.txt
+*.tfstate
+*.tfstate.*
+*.terraform.lock.hcl
+*bittu

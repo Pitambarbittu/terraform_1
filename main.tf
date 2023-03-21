@@ -5,6 +5,7 @@ resource "local_file" "file_1" {
     content = "hello world"
   
 }
+#hello
 
 resource "local_file" "file_2" {
     filename = "file2.txt"
